@@ -21,3 +21,6 @@ console.log( typeof stringNumber)
     "": false
     "anything": true
  */
+
+
+// **************************  Operations  ************************
